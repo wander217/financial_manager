@@ -16,6 +16,7 @@
 	<div class="container">
 		<div class="nav">
 			<div class="nav__logo">
+				<img src="generic/image/logo.jpg">
 				<a href="#">Logo</a>
 			</div>
 			
